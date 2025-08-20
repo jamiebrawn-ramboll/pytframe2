@@ -1,4 +1,4 @@
-Example Usage:
+# Example Usage
 
 ```python
 # Initialize the FeatureClass object
